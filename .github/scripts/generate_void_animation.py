@@ -44,7 +44,7 @@ def generate_shimmer_text_frame(text: str, font: ImageFont.FreeTypeFont, width: 
 
     color_a = (157, 78, 221)
     color_b = (224, 170, 255)
-    color_c = (0, 255, 255)
+    color_c = (151, 125, 255)
 
     current_x = x_start
     for i, char in enumerate(text):
