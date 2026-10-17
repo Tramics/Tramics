@@ -23,13 +23,8 @@
 ###
 
 <div align="center">
-  <a href="https://steamcommunity.com/id/ImMbNoOne">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
-  </a>
-  <img width="12" />
-  <a href="https://discord.com/users/tntmics">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+  <a href="https://steamcommunity.com/id/ImMbNoOne"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a>
+  <a href="https://discord.com/users/tntmics"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </div>
 
 ###
